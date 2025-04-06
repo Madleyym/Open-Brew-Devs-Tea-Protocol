@@ -27,7 +27,7 @@ Open Brew is currently running on TEA Protocol's testnet environment. This means
 
 To interact with Open Brew on the testnet:
 1. Connect using a testnet-compatible wallet
-2. Request test tokens from the [TEA Protocol faucet](https://faucet.tea.xyz) (or appropriate link)
+2. Request test tokens from the [TEA Protocol faucet](https://faucet-sepolia.tea.xyz/#/) (or appropriate link)
 3. Provide feedback on any issues or bugs you encounter
 
 The testnet version allows users to experience the full functionality of Open Brew without financial risk while we continue to optimize and improve the platform before our mainnet release.
