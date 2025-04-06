@@ -21,6 +21,7 @@ Check it out here: [https://open-brew.vercel.app](https://open-brew.vercel.app)
 - Telegram: [https://t.me/madsrepo](https://t.me/madsrepo)
 
 ## 📁 Folder Structure
+```plaintext
 open-brew/
 ├── app/                # Next.js app directory
 │   ├── images/         # Contains dashboard images 
