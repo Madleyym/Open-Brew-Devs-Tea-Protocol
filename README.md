@@ -1,4 +1,4 @@
-# 🧪 Open Brew — dApp Analytics for TEA Protocol
+# 🧪 Open Brew — DEX Analytics for TEA Protocol
 
 Open Brew is a decentralized analytics and staking platform built on top of [TEA Protocol](https://www.tea.xyz/). This project aims to provide contributors and users with a clean dashboard to track packages, stake tokens, monitor transactions, and view KYC-verified addresses.
 
@@ -14,7 +14,7 @@ Open Brew is a decentralized analytics and staking platform built on top of [TEA
 
 Check it out here: [https://open-brew.vercel.app](https://open-brew.vercel.app)
 
-![Open Brew Live Dashboard](app/images/Dex.png)
+![Open Brew Live Dashboard](app/assets/Dex.png)
 
 ## 📞 Contact
 
@@ -23,7 +23,8 @@ Check it out here: [https://open-brew.vercel.app](https://open-brew.vercel.app)
 ## 📁 Folder Structure
 open-brew/
 ├── app/                # Next.js app directory
-│   └── images/         # Contains dashboard images and assets
+│   ├── images/         # Contains dashboard images 
+│   └── assets/         # Contains other assets
 ├── components/         # Reusable React components
 ├── lib/                # API and utility functions
 ├── pages/              # Route-based components (legacy)
