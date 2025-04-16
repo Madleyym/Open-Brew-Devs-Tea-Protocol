@@ -1,0 +1,35 @@
+[
+  {
+    "inputs": [{ "name": "packageId", "type": "string" }],
+    "name": "stake",
+    "outputs": [{ "name": "", "type": "bool" }],
+    "stateMutability": "payable",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "name": "stakeId", "type": "string" }],
+    "name": "unstake",
+    "outputs": [{ "name": "", "type": "bool" }],
+    "stateMutability": "nonpayable",
+    "type": "function"
+  },
+  {
+    "inputs": [{ "name": "staker", "type": "address" }],
+    "name": "getStakedPackages",
+    "outputs": [
+      {
+        "components": [
+          { "name": "id", "type": "string" },
+          { "name": "packageId", "type": "string" },
+          { "name": "amount", "type": "uint256" },
+          { "name": "apy", "type": "uint256" },
+          { "name": "timestamp", "type": "uint256" }
+        ],
+        "name": "stakes",
+        "type": "tuple[]"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
