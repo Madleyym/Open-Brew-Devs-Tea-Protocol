@@ -1,10 +1,10 @@
-# 🧪 Open Brew — DEX Analytics for TEA Protocol
+# 🧪 Open Brew — DEX Platform for TEA Protocol
 
-Open Brew is a decentralized analytics and staking platform built on top of [TEA Protocol](https://www.tea.xyz/)'s testnet. This project provides contributors and users with a clean dashboard to track packages, stake tokens on open-source packages, monitor transactions, and view KYC-verified addresses. Open Brew also features a complete DEX functionality with token swapping and liquidity provision capabilities, allowing users to seamlessly interact with the TEA ecosystem while exploring the platform's analytics tools.
+Open Brew is a decentralized exchange (DEX) platform built on top of [TEA Protocol](https://www.tea.xyz/)'s testnet. This project provides users with a clean dashboard interface to interact with various TEA ecosystem services, including package staking, token swapping, trading, and more. Open Brew brings together essential DeFi functionality in one place, allowing users to seamlessly participate in the TEA ecosystem through features like NFT minting, multi-sender transactions, forum interactions, and KYC address verification.
 
 ## 🚀 Features
 
-- 📊 Dashboard for package analytics
+- 📊 Dashboard for protocol overview
 - 📦 Package Staking System for open-source packages
 - 💱 Token SWAP functionality
 - 📈 Trading capabilities
