@@ -6,17 +6,20 @@ Open Brew is a decentralized analytics and staking platform built on top of [TEA
 
 - 📊 Dashboard for package analytics
 - 📦 Package Staking System for open-source packages
-- 💳 Transaction Tracker
-- 🔍 KYC Address Viewer
-- 💱 Token Swap functionality
-- 💧 Liquidity provision capabilities
+- 💱 Token SWAP functionality
+- 📈 Trading capabilities
+- 🏪 opBrew Market
+- 🖼️ Mint NFT
+- 📨 Multi Sender utility
+- 💬 Forum transactions
+- 👥 KYC Addresses verification
 - 🛠️ Built using Next.js + TailwindCSS
 
 ## 🌐 Live Preview
 
 Check it out here: [https://open-brew.vercel.app](https://open-brew.vercel.app)
 
-![Open Brew Live Dashboard](app/assets/Dex.png)
+![Open Brew Live Dashboard](app/assets/OpenBrewDEX.png)
 
 ## 🧪 Testnet Information
 
@@ -37,18 +40,3 @@ The testnet version allows users to experience the full functionality of Open Br
 ## 📞 Contact
 
 - Telegram: [https://t.me/madsrepo](https://t.me/madsrepo)
-
-## 📁 Folder Structure
-```plaintext
-open-brew/
-├── app/                # Next.js app directory
-│   ├── images/         # Contains dashboard images 
-│   └── assets/         # Contains other assets
-├── components/         # Reusable React components
-├── lib/                # API and utility functions
-├── pages/              # Route-based components (legacy)
-├── public/             # Static files
-├── styles/             # Tailwind & global CSS
-├── .env.example        # Environment variables template
-├── tailwind.config.js  # TailwindCSS configuration
-└── README.md
